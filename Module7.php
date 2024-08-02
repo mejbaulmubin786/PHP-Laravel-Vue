@@ -38,9 +38,6 @@ function countFreq($pat, $txt)
     return $res;
 }
 
-// Driver Code
-$txt = "dhimanman";
-$pat = "man";
 fscanf(STDIN, "%s %s", $text, $patt);
 echo countFreq($patt, $text);
 

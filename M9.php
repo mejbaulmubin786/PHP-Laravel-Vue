@@ -45,7 +45,7 @@ function concatString($fname, $lname)
 echo concatString($firstName, $lastName);
 
 /*
- * Second to Hour:Minute
+ * Second to Hour:Minute (Easy)
 
 Problem Statement: Write a program which will take seconds as input and output into hour:minute.
 Input: The input consists of a integer.

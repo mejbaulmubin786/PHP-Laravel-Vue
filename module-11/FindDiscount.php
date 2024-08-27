@@ -1,10 +1,9 @@
 <?php
 # Write your PHP code from here
-fscanf(STDIN, "%d %d", $price, $discount);
-function discountPrice($price, $percent)
+fscanf(STDIN, "%d %d", $price, $dicount);
+function discountPrice($price, $dicount)
 {
-    $newPrice = $price * ($percent / 100);
-
+    $newPrice = $price -  $price * ($dicount / 100);
     echo "Price: " . number_format($newPrice, 2);
 }
-discountPrice(50, 50);
+discountPrice($price, $dicount);

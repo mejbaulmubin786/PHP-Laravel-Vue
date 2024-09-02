@@ -18,4 +18,4 @@ Output: 250
 # Write your PHP code from here
 fscanf(STDIN, "%lf", $salary);
 $bonusSalary = (int)($salary / 10);
-echo $bonusSalary
+echo $bonusSalary;

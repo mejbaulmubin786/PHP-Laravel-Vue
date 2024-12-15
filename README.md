@@ -18,9 +18,9 @@
 | 12. [Module - 18](module-18) | Problem Solving in PHP...         |       02       |
 | 13. [Module - 19](module-19) | Problem Solving in PHP...         |       02       |
 | 14. [Module - 20](module-20) | EXAM WEEK (Assignment + LiveTest) |    01 + 02     |
-| 15. [Module - 21](module-21) | Problem Solving in JS...          |       02       |
-| 16. [Module - 22](module-22) | Problem Solving in JS...          |       04       |
-| 17. [Module - 23](module-23) | Problem Solving in JS...          |       02       |
-| 18. [Module - 24](module-24) | Problem Solving in JS...          |       02       |
+| 15. [Module - 21](module-21) | Problem Solving in PHP + JS...    |       02       |
+| 16. [Module - 22](module-22) | Problem Solving in PHP + JS...    |       04       |
+| 17. [Module - 23](module-23) | Problem Solving in PHP + JS...    |       02       |
+| 18. [Module - 24](module-24) | Problem Solving in PHP + JS...    |       02       |
 | 19. [Module - 25](module-25) | EXAM WEEK (Assignment + LiveTest) |    01 + 01     |
 | 20. [Module - 26](module-26) | Problem Solving in JS...          |       02       |

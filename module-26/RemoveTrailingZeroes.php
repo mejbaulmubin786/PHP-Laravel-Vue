@@ -11,6 +11,7 @@ Output: 505.45
 Notes: If there are only zeroes after decimal point then it will print the number without any decimal point. For example, 50.00 will be printed as 50.
 */
 
+
 <?php
 function removeTrailingZeroes($number) {
     // Convert the string to a float and then back to a string to remove unnecessary trailing zeroes

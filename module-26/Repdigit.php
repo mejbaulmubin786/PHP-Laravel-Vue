@@ -11,6 +11,7 @@ Output: true
 Notes: None
 */
 
+
 <?php
 function isRepdigit($number) {
     // Convert the number to a string

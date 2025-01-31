@@ -28,4 +28,5 @@
 | 22. [Module - 28](module-28) | Problem Solving in PHP + JS...    |      02       |
 | 23. [Module - 29](module-29) | Problem Solving in PHP + JS...    |      02       |
 | 24. [Module - 30](module-30) | Problem Solving in PHP + JS...    |      02       |
-| 25. [Module - 31](module-31) | Problem Solving in PHP + JS...    |      02       |
+| 25. [Module - 31](module-31) | Problem Solving in ... + JS...    |      02       |
+| 26. [Module - 32](module-32) | Problem Solving in PHP + .....    |      02       |
